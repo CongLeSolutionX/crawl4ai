@@ -1,10 +1,98 @@
-aiosqlite==0.20.0
-html2text==2024.2.26
-lxml==5.3.0
-litellm==1.48.0
-numpy>=1.26.0,<2.1.1
-pillow==10.4.0
-playwright==1.47.0
-python-dotenv==1.0.1
-requests>=2.26.0,<2.32.3
-beautifulsoup4==4.12.3
+# aiosqlite==0.20.0
+# html2text==2024.2.26
+# lxml==5.3.0
+# litellm==1.48.0
+# numpy>=1.26.0,<2.1.1
+# pillow==10.4.0
+# playwright==1.47.0
+# python-dotenv==1.0.1
+# requests>=2.26.0,<2.32.3
+# beautifulsoup4==4.12.3
+aiohttp
+aiosignal
+aiosqlite
+annotated-types
+anthropic
+anyio
+async-timeout
+asyncio
+asynctest
+attrs
+backoff
+beautifulsoup4
+cached-property
+certifi
+charset-normalizer
+click
+cohere
+Crawl4AI
+Deprecated
+distro
+exceptiongroup
+fastapi
+fastavro
+filelock
+firecrawl
+frozenlist
+fsspec
+greenlet
+h11
+html2text
+httpcore
+httpx
+huggingface-hub
+idna
+importlib-metadata
+importlib-resources
+iniconfig
+joblib
+limits
+litellm
+lxml
+multidict
+nltk
+numpy
+openai
+outcome
+packaging
+pandas
+pandas-stubs
+Pillow
+playwright
+pluggy
+pydantic
+pydantic_core
+pyee
+PySocks
+pytest
+pytest-asyncio
+python-dateutil
+python-dotenv
+pytz
+PyYAML
+regex
+replicate
+requests
+safetensors
+selenium
+six
+slowapi
+sniffio
+sortedcontainers
+soupsieve
+starlette
+tenacity
+tokenizers
+tomli
+torch
+tqdm
+transformers
+trio
+trio-websocket
+typing_extensions
+urllib3
+uvicorn
+wrapt
+wsproto
+yarl
+zipp
