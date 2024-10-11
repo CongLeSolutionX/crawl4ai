@@ -96,3 +96,5 @@ wrapt
 wsproto
 yarl
 zipp
+
+mkdocs-git-revision-date-plugin

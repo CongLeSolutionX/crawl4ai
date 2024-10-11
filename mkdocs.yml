@@ -28,14 +28,20 @@ nav:
 
 theme:
   name: terminal
-  palette: dark
+  palette: gruvbox_dark
+  features:
+    - navigation.top.search_button.hide
+    - revision.date
+  plugins:
+  - search
+  - git-revision-date
 
-# Add the css/extra.css
-extra_css:
-  - assets/styles.css
-  - assets/highlight.css
-  - assets/dmvendor.css
+# # Add the css/extra.css
+# extra_css:
+#   - assets/styles.css
+#   - assets/highlight.css
+#   - assets/dmvendor.css
 
-extra_javascript:
-  - assets/highlight.min.js
-  - assets/highlight_init.js
+# extra_javascript:
+#   - assets/highlight.min.js
+#   - assets/highlight_init.js
